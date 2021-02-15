@@ -1,0 +1,6 @@
+Pascal/
+out/
+.idea/
+#to protect from piracy of proprietal resources
+resources/
+*.bmp
