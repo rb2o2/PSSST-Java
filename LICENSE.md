@@ -1,4 +1,4 @@
-Copyright 2021 Izzy Moreno, Dart Hydra, Rb2O2.
+Copyright 2021-2024 Izzy Moreno, Dart Hydra, Rb2O2.
 
 PSSST remake brought to Java platform by [Rb2O2](https://github.com/rb2o2/).
 
